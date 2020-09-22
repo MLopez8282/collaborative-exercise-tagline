@@ -3,8 +3,13 @@ body{
 }
 .card-body {
     width: 50%;
-    float: left;
 }
-.img {
-    float: right;
+.image {
+    width: 25px;
+}
+.container {
+    max-width: 100%;
+}
+.col {
+    margin: auto;
 }
