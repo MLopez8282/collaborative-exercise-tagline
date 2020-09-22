@@ -1,3 +1,10 @@
 body{
     background: #BDBDBD;
 }
+.card-body {
+    width: 50%;
+    float: left;
+}
+.img {
+    float: right;
+}
